@@ -3,7 +3,7 @@ import { useState } from 'react';
 import { motion } from "framer-motion";
 import Head from "next/head";
 import Image from "next/image";
-import profile from "../../public/images/profile/abt.png";
+import profile from "../../public/images/profile/dhanaraj.png";
 import { useInView, useMotionValue, useSpring } from "framer-motion";
 import { useEffect, useRef } from "react";
 import Experience from "@/components/Experience";
